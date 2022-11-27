@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.form1{
+    padding: 4%;
+    margin: 0px;
+    padding-right: 40px;
+    width: 300px;
+}
+.form2{
+margin-top: 50px;
+position: fixed;
+}
+.btn:hover{
+   color: black;
+}
+.btn:active{
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+}
+span{
+    padding-right: 80px;
+    color:darkslategrey;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

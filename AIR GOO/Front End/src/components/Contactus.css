@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.support{
+    border: 6px solid black;
+    margin-top: 5%;
+    margin-left: 15%;
+    background-color: cadetblue;
+    opacity: 0.8;
+}
+.title{
+    padding-left: 5%;
+    font-size: 500%;
+    font-weight: bolder;
+}
+.subtitile{
+    font-size: 120%;
+    color: black;
+    font-weight: bold;
+   
+}
+
